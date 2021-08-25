@@ -23,8 +23,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Goals of the lab
 - To implement new & emerging technologies to support data-driven decisionmaking
-- To collaborate with policymakers, academic insitutions and stakeholders to develop smart, socially just and healthy cities
+- To collaborate with policymakers, academic institutions and stakeholders to develop smart, socially just and healthy cities
 - To serve as a resource for Bloustein masters programs
+
+## 4th Floor Renovations
+- RUCI Lab has been under construction since the Spring
+- Computer lab with collaborative spaces for students
+
+## How it Started
+
+![](figures/initial_lab.jpg){width=80%}
+
+## How it's Going
+
+![](figures/lab_space.jpg){width=80%}
 
 # Our Research
 
@@ -66,17 +78,18 @@ knitr::opts_chunk$set(echo = FALSE)
 - Future report will examine how NJ reopened from May to present.
 
 ## Opportunities to get involved
-- We currently work with MPI, MCRP and MPP students
+- We work with Bloustein students on a per-project basis depending on availability and resources.
 - GIS, R, or Python experience is highly desirable
 
 # Q & A
 Questions?
 
 ## Learn More About RUCI
+
+Website: [rucilab.rutgers.edu](https://rucilab.rutgers.edu)
+
 Contact the lab: rucilab@ejb.rutgers.edu
 Contact me: gavin.rozzi@rutgers.edu
-
-[rucilab.rutgers.edu](https://rucilab.rutgers.edu)
 
 ## Thank you!
 
